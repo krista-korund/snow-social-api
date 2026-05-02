@@ -1,0 +1,8 @@
+__pycache__
+venv
+*.db
+.venv
+.idea
+storage/avatars
+!storage/avatars/default.png
+*.pyc
