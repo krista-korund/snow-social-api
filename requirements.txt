@@ -1,0 +1,9 @@
+fastapi==0.70.1
+uvicorn==0.16.0
+pydantic==1.8.2
+alembic~=1.1.0.dev0
+sqlalchemy~=1.4.27
+pyjwt~=1.7.1
+bcrypt==3.2.0
+
+starlette~=0.16.0
